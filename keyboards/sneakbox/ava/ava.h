@@ -19,8 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "quantum.h"
 
-#define LAYOUT_all LAYOUT_alice_split_bs
-
 #define LAYOUT_alice_split_bs( \
 	K020,   K000, K001, K002, K003, K004, K005, K006,       K010, K011, K012, K013, K014, K015, K016, K017, \
 	K040,   K021,       K022, K023, K024, K025, K026,       K030, K031, K032, K033, K034, K035, K036, K037, \
